@@ -1,0 +1,16 @@
+{{ if .Title }}
+  <figure>
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" >
+    <figcaption 
+    	style=" 
+    	font-style: italic; 
+    	text-align: center; 
+    	color: grey; 
+    	font-size: 14px"
+    	>
+    	{{ .Title }}
+    </figcaption>
+  </figure>
+{{ else }}
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+{{ end }}

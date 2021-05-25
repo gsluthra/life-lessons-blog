@@ -1,13 +1,13 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "My blog"
+title = "life-lessons.in"
 theme = "ghostwriter"
 
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
+    headline = "Life-Lessons.in"
+    description = "Adventures in Software and Life"
     github = "https://github.com/XXX"
     twitter = "https://twitter.com/XXX"
     email = "XXX@example.com"
