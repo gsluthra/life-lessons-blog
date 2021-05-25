@@ -1,6 +1,6 @@
 +++
 
-title = "Vagrant: An interesting approach to setup development environments FAST!"
+title = "Vagrant: Setup development environments FAST!"
 description = "Understanding the popularity behind Vagrant"
 author = "Gurpreet Luthra"
 date = 2012-12-16T02:13:50Z
