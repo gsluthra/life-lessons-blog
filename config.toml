@@ -15,5 +15,20 @@ theme = "ghostwriter"
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
 
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 4
+
 [Permalinks]
     post = "/:filename/"
