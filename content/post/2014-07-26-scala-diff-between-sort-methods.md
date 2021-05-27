@@ -9,7 +9,6 @@ tags = [
     "programming",
     "architecture",
     "technical",
-    "devops",
 ]
 
 +++
