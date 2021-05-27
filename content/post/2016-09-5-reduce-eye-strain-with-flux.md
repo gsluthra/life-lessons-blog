@@ -6,9 +6,10 @@ author = "Gurpreet Luthra"
 date = 2016-09-05T02:13:50Z
 
 tags = [
-    "healthcare",
-    "humans",
-    "policy",
+    "technical",
+    "programming",
+    "health",
+    "neat-apps",
 ]
 
 +++
