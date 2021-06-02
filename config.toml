@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "life-lessons.in"
 theme = "ghostwriter"
 
+
 [Params]
     mainSections = ["post"]
     intro = true
@@ -14,6 +15,8 @@ theme = "ghostwriter"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
+    readingTime =  true
+    readingTimeText = "Estimated reading time:"
 
 
 [markup]
@@ -31,4 +34,5 @@ theme = "ghostwriter"
     tabWidth = 4
 
 [Permalinks]
-    post = "/:filename/"
+    post = "/:year/:month/:day/:filename/"
+
