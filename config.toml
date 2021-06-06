@@ -34,5 +34,5 @@ theme = "ghostwriter"
     tabWidth = 4
 
 [Permalinks]
-    post = "/:year/:month/:day/:filename/"
+    post = "/:year/:month/:day/:filename.html"
 
