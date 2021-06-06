@@ -36,3 +36,18 @@ theme = "ghostwriter"
 [Permalinks]
     post = "/:year/:month/:day/:filename.html"
 
+
+[[menu.main]]
+name = "Blog"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Presentations"
+url = "/page/presentations/"
+weight = 2
+
+[[menu.main]]
+name = "About Me"
+url = "/page/about/"
+weight = 3
