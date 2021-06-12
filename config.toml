@@ -1,8 +1,8 @@
-baseurl = "/"
+baseurl = "https://life-lessons.in"
 languageCode = "en-us"
 title = "life-lessons.in"
 theme = "ghostwriter"
-
+disqusShortname = "life-lessons-in"
 
 [Params]
     mainSections = ["post"]
@@ -14,9 +14,11 @@ theme = "ghostwriter"
     # email = "XXX@example.com"
     opengraph = true
     shareTwitter = true
+    shareLinkedIn = true
     dateFormat = "Mon, Jan 2, 2006"
     readingTime =  true
     readingTimeText = "Estimated reading time:"
+
 
 
 [markup]
@@ -36,6 +38,18 @@ theme = "ghostwriter"
 [Permalinks]
     post = "/:year/:month/:day/:filename.html"
 
+
+[privacy.disqus]
+disable = false
+
+[privacy.googleAnalytics]
+anonymizeIP = true
+respectDoNotTrack = true
+useSessionStorage = false
+
+
+[taxonomies]
+  tag = "tags"
 
 [[menu.main]]
 name = "Blog"
