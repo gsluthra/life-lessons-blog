@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "life-lessons.in"
 theme = "ghostwriter"
 disqusShortname = "life-lessons-in"
+googleAnalytics = "UA-69555622-1"
 
 [Params]
     mainSections = ["post"]
