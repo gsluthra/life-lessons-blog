@@ -1,15 +1,18 @@
 baseurl = "https://life-lessons.in"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "life-lessons.in"
 theme = "ghostwriter"
 disqusShortname = "life-lessons-in"
 googleAnalytics = "UA-69555622-1"
+paginate = 50
 
 [Params]
     mainSections = ["post"]
     intro = true
     headline = "Life-Lessons.in"
-    description = "Adventures in Software and Life"
+    description = "Adventures in Software and Life (Gurpreet Luthra)"
+    author = "Gurpreet Luthra"
     github = "https://github.com/gsluthra"
     twitter = "https://twitter.com/_zenx_"
     # email = "XXX@example.com"
@@ -23,6 +26,10 @@ googleAnalytics = "UA-69555622-1"
     readingTime =  true
     readingTimeText = "Estimated reading time:"
 
+
+[author]
+    name =  "Gurpreet Luthra"
+    profile =  "Principal Consultant at ThoughtWorks"
 
 
 [markup]
