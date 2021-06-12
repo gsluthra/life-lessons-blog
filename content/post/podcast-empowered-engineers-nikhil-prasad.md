@@ -4,6 +4,7 @@ title = "Empowered Engineering Culture - Nikhil Prasad (Expertease Podcast #3)"
 description = "An insightful discussion on cultivating an empowered product engineering culture by leveraging the power of Mastery, Autonomy and Purpose."
 author = "Gurpreet Luthra"
 date = 2020-10-02T02:13:50Z
+images = ["/images/general/podcast3/robert-collins-unsplash.jpg"]
 
 tags = [
     "culture",
@@ -53,6 +54,7 @@ This is a really thought provoking episode that explains how Mastery, Autonomy a
 ### Insights on Career, Mastery and Craftsmanship (Part 2)
 Listen to Part 2 of this episode with Nikhil, on his principles of building a meaningful engineering career here: [Part 2 of the podcast with Nikhil](/2020/11/29/podcast-building-engineering-career-nikhil-prasad.html).
 
+![Unsplash Robert Collins](/images/general/podcast3/robert-collins-unsplash.jpg "UnSplash Robert Collins")
 
 ### Credits
 

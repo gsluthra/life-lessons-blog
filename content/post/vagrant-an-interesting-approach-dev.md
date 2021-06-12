@@ -4,6 +4,7 @@ title = "Vagrant: Setup development environments FAST!"
 description = "Understanding the popularity behind Vagrant"
 author = "Gurpreet Luthra"
 date = 2012-12-16T02:13:50Z
+images = ["/images/general/orange-evening.jpg"]
 
 tags = [
     "programming",

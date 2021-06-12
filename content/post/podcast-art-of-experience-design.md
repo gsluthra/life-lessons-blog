@@ -4,6 +4,8 @@ title = "Art of Experience Design with Aditya Karle (Expertease Podcast #1)"
 description = "A lighthearted chat on Experience Design and applying it to Bengaluru Airport"
 author = "Gurpreet Luthra"
 date = 2020-07-22T02:13:50Z
+images = ["/images/general/podcast1/design-unsplash.jpg"]
+
 
 tags = [
     "design",

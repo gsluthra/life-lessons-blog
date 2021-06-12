@@ -4,6 +4,8 @@ title = "Exiting the Rat Race -  The Entrepreneurial Journey of Sandeep Nanu (Ex
 description = "A spirited chat on Sandeep Nanu's journey of building a consulting firm while balancing work and personal life, having fun all the way."
 author = "Gurpreet Luthra"
 date = 2020-08-01T02:13:50Z
+images = ["/images/general/podcast2/Sandeep_Nanu1.jpg"]
+
 
 tags = [
     "entrepreneur",

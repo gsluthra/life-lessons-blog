@@ -4,6 +4,8 @@ title = "Installing ThoughtWorks GoCD Server on a Digital Ocean Droplet"
 description = "Quick experimental setup on the cloud of GoCD"
 author = "Gurpreet Luthra"
 date = 2015-08-16T02:13:50Z
+images = ["/images/general/singapore-street.jpg"]
+
 
 tags = [
     "programming",

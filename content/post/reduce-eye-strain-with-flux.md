@@ -4,6 +4,8 @@ title = "Reduce Computer Eye Strain with F.lux"
 description = "An application I have been using for over 3 years"
 author = "Gurpreet Luthra"
 date = 2016-09-05T02:13:50Z
+images = ["/images/general/flux-logo.jpg"]
+
 
 tags = [
     "technical",

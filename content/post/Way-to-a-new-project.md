@@ -4,6 +4,7 @@ title = "Way To A New Project"
 description = "Tips on becoming effective quickly on joining a new project"
 author = "Gurpreet Luthra"
 date = 2014-11-28T02:13:50Z
+images = ["/images/general/snow-jeep.jpg"]
 
 tags = [
     "programming",

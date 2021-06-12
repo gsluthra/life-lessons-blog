@@ -4,6 +4,8 @@ title = "Building Applications for Multiple Countries and Languages"
 description = "A checklist of things to bear in mind while developing applications for the global audience"
 author = "Gurpreet Luthra"
 date = 2015-02-14T02:13:50Z
+images = ["/images/general/singapore-street.jpg"]
+
 
 tags = [
     "programming",

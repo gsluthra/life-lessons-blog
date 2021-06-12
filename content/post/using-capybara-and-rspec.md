@@ -4,6 +4,7 @@ title = "Using Capybara and Rspec assertions in Page Objects"
 description = "Writing well encapsulated tests in Rails with the Page Object pattern"
 author = "Gurpreet Luthra"
 date = 2014-01-10T02:13:50Z
+images = ["/images/general/orange-evening.jpg"]
 
 tags = [
     "programming",

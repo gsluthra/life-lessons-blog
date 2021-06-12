@@ -4,6 +4,8 @@ title = "8 months at ThoughtWorks Pune"
 description = "The place I now call my home"
 author = "Gurpreet Luthra"
 date = 2012-02-25T02:13:50Z
+images = ["/images/general/orange-evening.jpg"]
+
 
 tags = [
     "thoughtworks",

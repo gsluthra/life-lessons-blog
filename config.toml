@@ -13,6 +13,7 @@ disqusShortname = "life-lessons-in"
     twitter = "https://twitter.com/_zenx_"
     # email = "XXX@example.com"
     opengraph = true
+    images = ["/images/general/martin-backpacker-guitar.jpg"]
     rss = true
     shareTwitter = true
     shareLinkedIn = true

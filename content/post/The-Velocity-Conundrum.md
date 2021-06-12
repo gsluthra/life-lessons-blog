@@ -4,6 +4,8 @@ title = "The Velocity Conundrum"
 description = "Pitfalls in measuring velocity of high performance teams"
 author = "Gurpreet Luthra"
 date = 2015-12-25T02:13:50Z
+images = ["/images/general/singapore-street.jpg"]
+
 
 tags = [
     "teams",

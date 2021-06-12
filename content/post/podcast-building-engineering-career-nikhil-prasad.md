@@ -1,9 +1,9 @@
 +++
-
-title = "Insights on Career, Mastery and Craftsmanship - Nikhil Prasad (Expertease Podcast #4)"
+title = "Insights on Career, Mastery and Craftsmanship (Expertease Podcast #4)"
 description = "A frank conversation with Nikhil Prasad, CTO Tavisca, on his principles for building a meaninful engineering career"
 author = "Gurpreet Luthra"
 date = 2020-11-29T02:13:50Z
+images = ["/images/general/podcast4/johnathan-macedo-unsplash.jpg"]
 
 tags = [
     "culture",
@@ -55,6 +55,8 @@ This is a frank conversation with Nikhil, where he explains how one can be happy
 4. [Knowledge Project - Podcast and Blog](https://fs.blog/knowledge-project/)
 5. [Charlie Munger - Articles and Blog](http://charliemungersays.com/)
 6. (Book) Principles by Ray Dalio - [Kindle](https://amzn.to/36h4xr3), [Hardcopy](https://amzn.to/36eNNAW)
+
+![UnSplash (Johnathan Macedo)](/images/general/podcast4/johnathan-macedo-unsplash.jpg "UnSplash (Johnathan Macedo)")
 
 ### Credits
 

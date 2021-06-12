@@ -4,6 +4,8 @@ title = "I Know That I Know Nothing"
 description = "A model for helping us deal with the Socrates Paradox"
 author = "Gurpreet Luthra"
 date = 2018-05-12T02:13:50Z
+images = ["/images/general/colombo_beach_image_small.jpg"]
+
 
 tags = [
     "learning",

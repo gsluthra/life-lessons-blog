@@ -4,6 +4,8 @@ title = "POKA YOKE - Applying Mistake Proofing to Software"
 description = "A technique for reducing mistakes in software"
 author = "Gurpreet Luthra"
 date = 2012-07-22T02:13:50Z
+images = ["/images/general/orange-evening.jpg"]
+
 
 tags = [
     "programming",

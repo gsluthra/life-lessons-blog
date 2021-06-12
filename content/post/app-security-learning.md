@@ -4,6 +4,8 @@ title = "12 Things I Learnt While Teaching Application Security"
 description = "Fascinating stuff I stumbled upon while preparing for security training"
 author = "Gurpreet Luthra"
 date = 2017-04-12T02:13:50Z
+images = ["/images/general/turkey-ocean-1.jpg"]
+
 
 tags = [
     "security",

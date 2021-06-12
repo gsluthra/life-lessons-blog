@@ -4,6 +4,8 @@ title = "Recommended Reading for Lateral Dev Hires at ThoughtWorks"
 description = "An Unofficial Opinion"
 author = "Gurpreet Luthra"
 date = 2012-07-29T02:13:50Z
+images = ["/images/general/thoughtworks_tech_radar.jpg"]
+
 
 tags = [
     "programming",

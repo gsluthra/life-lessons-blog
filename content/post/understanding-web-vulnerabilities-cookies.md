@@ -4,6 +4,8 @@ title = "Web Vulnerabilities - Phishing, Cookies, XSS and CSRF"
 description = "A basic overview of common web vulnerabilities"
 author = "Gurpreet Luthra"
 date = 2012-04-29T02:13:50Z
+images = ["/images/general/orange-evening.jpg"]
+
 
 tags = [
     "security",

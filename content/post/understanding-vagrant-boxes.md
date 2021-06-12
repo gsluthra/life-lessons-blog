@@ -4,6 +4,8 @@ title = "Understanding Vagrant Boxes and VMs"
 description = "Clearing the confusion around Vagrant boxes"
 author = "Gurpreet Luthra"
 date = 2015-10-03T02:13:50Z
+images = ["/images/general/snow-jeep.jpg"]
+
 
 tags = [
     "programming",

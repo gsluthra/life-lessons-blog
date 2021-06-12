@@ -4,6 +4,8 @@ title = "Mars Rover Problem in Scala"
 description = "Companion code to Priyank's blog"
 author = "Gurpreet Luthra"
 date = 2016-04-24T02:13:50Z
+images = ["/images/general/singapore-street.jpg"]
+
 
 tags = [
     "programming",

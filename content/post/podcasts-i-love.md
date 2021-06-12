@@ -4,6 +4,7 @@ title = "Podcasts I Love"
 description = "A list of podcasts to bookmark and listen"
 author = "Gurpreet Luthra"
 date = 2015-11-15T02:13:50Z
+images = ["/images/general/artists.jpg"]
 
 tags = [
     "podcasts",

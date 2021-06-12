@@ -4,6 +4,8 @@ title = "Understanding Open Source Software"
 description = "My thoughts and findings about questions concerning Open Source Software"
 author = "Gurpreet Luthra"
 date = 2017-03-12T02:13:50Z
+images = ["/images/general/guitar.jpg"]
+
 
 tags = [
     "opensource",
