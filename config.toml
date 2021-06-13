@@ -1,4 +1,4 @@
-baseurl = "https://life-lessons.in"
+baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "life-lessons.in"
@@ -6,6 +6,8 @@ theme = "ghostwriter"
 disqusShortname = "life-lessons-in"
 googleAnalytics = "UA-69555622-1"
 paginate = 50
+copyright = "© Gurpreet Luthra 2021"
+
 
 [Params]
     mainSections = ["post"]
