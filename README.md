@@ -8,6 +8,11 @@ Useful Links:
  - https://www.thepolyglotdeveloper.com/2019/01/create-custom-shortcodes-embed-content-hugo-posts-pages/
 
 
+## Command to see blog locally
+```
+hugo serve -D
+```
+
 ## Commands to build blog and publish to Github
 
 ```
