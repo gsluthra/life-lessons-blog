@@ -7,7 +7,7 @@ disqusShortname = "life-lessons-in"
 googleAnalytics = "UA-69555622-1"
 paginate = 50
 copyright = "© Gurpreet Luthra 2021"
-uglyurls = true
+#uglyurls = true
 
 
 
@@ -51,7 +51,7 @@ uglyurls = true
     tabWidth = 4
 
 [Permalinks]
-    post = "/:year/:month/:day/:filename"
+    post = "/:year/:month/:day/:filename.html"
 
 
 [privacy.disqus]
