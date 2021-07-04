@@ -6,6 +6,10 @@ author = "Gurpreet Luthra"
 date = 2015-08-16T02:13:50Z
 images = ["/images/general/singapore-street.jpg"]
 
+aliases = [
+    "/2015/08/16/gocd-on-digital-ocean.html/",
+    "/2015/08/16/gocd-on-digital-ocean.html"
+]
 
 tags = [
     "programming",

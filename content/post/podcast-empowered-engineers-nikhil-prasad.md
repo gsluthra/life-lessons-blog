@@ -5,6 +5,10 @@ description = "An insightful discussion on cultivating an empowered product engi
 author = "Gurpreet Luthra"
 date = 2020-10-02T02:13:50Z
 images = ["/images/general/podcast3/robert-collins-unsplash.jpg"]
+aliases = [
+    "/2020/10/02/podcast-empowered-engineers-nikhil-prasad.html/",
+    "/2020/10/02/podcast-empowered-engineers-nikhil-prasad.html"
+]
 
 tags = [
     "culture",

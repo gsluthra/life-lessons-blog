@@ -5,6 +5,10 @@ description = "Writing well encapsulated tests in Rails with the Page Object pat
 author = "Gurpreet Luthra"
 date = 2014-01-10T02:13:50Z
 images = ["/images/general/orange-evening.jpg"]
+aliases = [
+    "/2014/01/10/using-capybara-and-rspec.html/",
+    "/2014/01/10/using-capybara-and-rspec.html/"
+]
 
 tags = [
     "programming",

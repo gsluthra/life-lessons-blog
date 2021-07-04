@@ -5,6 +5,10 @@ description = "A basic overview of common web vulnerabilities"
 author = "Gurpreet Luthra"
 date = 2012-04-29T02:13:50Z
 images = ["/images/general/orange-evening.jpg"]
+aliases = [
+    "/2012/04/29/understanding-web-vulnerabilities-cookies.html/",
+    "/2012/04/29/understanding-web-vulnerabilities-cookies.html"
+]
 
 
 tags = [

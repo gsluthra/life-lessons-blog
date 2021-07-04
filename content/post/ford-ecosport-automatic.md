@@ -5,7 +5,10 @@ description = "The best automatic petrol car in the 10-20L range in 2019"
 author = "Gurpreet Luthra"
 date = 2019-12-30T02:13:50Z
 images = ["/images/general/EcoSport_Amazon.jpg"]
-
+aliases = [
+    "/2019/12/30/ford-ecosport-automatic.html",
+    "/2019/12/30/ford-ecosport-automatic.html/"
+]
 
 tags = [
     "cars",

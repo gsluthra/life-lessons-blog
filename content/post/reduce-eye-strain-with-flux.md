@@ -5,6 +5,10 @@ description = "An application I have been using for over 3 years"
 author = "Gurpreet Luthra"
 date = 2016-09-05T02:13:50Z
 images = ["/images/general/flux-logo.jpg"]
+aliases = [
+    "/2016/09/05/reduce-eye-strain-with-flux.html/",
+    "/2016/09/05/reduce-eye-strain-with-flux.html"
+]
 
 
 tags = [

@@ -5,7 +5,10 @@ description = "When was the last time you attended a retro. Did you encounter th
 author = "Gurpreet Luthra"
 date = 2016-02-03T02:13:50Z
 images = ["/images/general/EverySingleRetro.jpg"]
-
+aliases = [
+    "/2016/02/03/every-single-retro.html/",
+    "/2016/02/03/every-single-retro.html"
+]
 
 tags = [
     "agile",

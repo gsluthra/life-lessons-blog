@@ -4,6 +4,11 @@ description = "A frank conversation with Nikhil Prasad, CTO Tavisca, on his prin
 author = "Gurpreet Luthra"
 date = 2020-11-29T02:13:50Z
 images = ["/images/general/podcast4/johnathan-macedo-unsplash.jpg"]
+aliases = [
+    "/2020/11/29/podcast-building-engineering-career-nikhil-prasad.html/",
+    "/2020/11/29/podcast-building-engineering-career-nikhil-prasad.html"
+]
+
 
 tags = [
     "culture",

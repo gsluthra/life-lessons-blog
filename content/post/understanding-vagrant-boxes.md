@@ -5,6 +5,10 @@ description = "Clearing the confusion around Vagrant boxes"
 author = "Gurpreet Luthra"
 date = 2015-10-03T02:13:50Z
 images = ["/images/general/snow-jeep.jpg"]
+aliases = [
+    "/2015/10/03/understanding-vagrant-boxes.html/",
+    "/2015/10/03/understanding-vagrant-boxes.html"
+]
 
 
 tags = [

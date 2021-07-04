@@ -5,6 +5,10 @@ description = "Understand which sort method to use in what situation."
 author = "Gurpreet Luthra"
 date = 2014-07-26T02:13:50Z
 images = ["/images/general/orange-evening.jpg"]
+aliases = [
+    "/2014/07/26/scala-diff-between-sort-methods.html/",
+    "/2014/07/26/scala-diff-between-sort-methods.html"
+]
 
 
 tags = [

@@ -5,6 +5,10 @@ description = "A checklist of things to bear in mind while developing applicatio
 author = "Gurpreet Luthra"
 date = 2015-02-14T02:13:50Z
 images = ["/images/general/singapore-street.jpg"]
+aliases = [
+    "/2015/02/14/building-apps-for-multiple-countries.html/",
+    "/2015/02/14/building-apps-for-multiple-countries.html"
+]
 
 
 tags = [

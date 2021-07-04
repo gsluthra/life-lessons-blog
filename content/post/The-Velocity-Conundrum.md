@@ -5,6 +5,10 @@ description = "Pitfalls in measuring velocity of high performance teams"
 author = "Gurpreet Luthra"
 date = 2015-12-25T02:13:50Z
 images = ["/images/general/singapore-street.jpg"]
+aliases = [
+    "/2015/12/25/the-velocity-conundrum.html/",
+    "/2015/12/25/the-velocity-conundrum.html"
+]
 
 
 tags = [

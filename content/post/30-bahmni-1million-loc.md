@@ -5,7 +5,10 @@ description = "An analysis of Bahmni AngularJS exposure and strategy to migrate 
 author = "Gurpreet Luthra"
 date = 2021-02-25T02:13:50Z
 images = ["/images/general/Bahmni-friendsWithoutBorders.jpg"]
-
+aliases = [
+    "/2021/02/25/30-bahmni-1million-loc.html/",
+    "/2021/02/25/30-bahmni-1million-loc.html"
+]
 
 tags = [
     "design",

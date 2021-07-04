@@ -5,6 +5,10 @@ description = "A lighthearted chat on Experience Design and applying it to Benga
 author = "Gurpreet Luthra"
 date = 2020-07-22T02:13:50Z
 images = ["/images/general/podcast1/design-unsplash.jpg"]
+aliases = [
+    "/2020/07/22/podcast-art-of-experience-design.html/",
+    "/2020/07/22/podcast-art-of-experience-design.html"
+]
 
 
 tags = [

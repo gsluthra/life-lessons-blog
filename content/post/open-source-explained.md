@@ -5,6 +5,10 @@ description = "My thoughts and findings about questions concerning Open Source S
 author = "Gurpreet Luthra"
 date = 2017-03-12T02:13:50Z
 images = ["/images/general/guitar.jpg"]
+aliases = [
+    "/2017/03/12/open-source-explained.html/",
+    "/2017/03/12/open-source-explained.html"
+]
 
 
 tags = [

@@ -5,6 +5,10 @@ description = "An Unofficial Opinion"
 author = "Gurpreet Luthra"
 date = 2012-07-29T02:13:50Z
 images = ["/images/general/thoughtworks_tech_radar.jpg"]
+aliases = [
+    "/2012/07/29/recommended-reading-for-devs-thoughtworks.html/",
+    "/2012/07/29/recommended-reading-for-devs-thoughtworks.html"
+]
 
 
 tags = [

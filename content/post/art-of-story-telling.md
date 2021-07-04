@@ -5,6 +5,10 @@ description = "Harness the art of story telling to make presentations memorable"
 author = "Gurpreet Luthra"
 date = 2018-03-31T02:13:50Z
 images = ["/images/general/martin-backpacker-guitar.jpg"]
+aliases = [
+    "/2018/03/31/art-of-story-telling.html/",
+    "/2018/03/31/art-of-story-telling.html"
+]
 
 
 tags = [

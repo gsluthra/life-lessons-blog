@@ -5,6 +5,10 @@ description = "100+ free home style Indian recipes mobile app built with nocode"
 author = "Gurpreet Luthra"
 date = 2021-06-19T02:13:50Z
 images = ["/images/general/indian_recipes_mobile_app_glide.png"]
+aliases = [
+    "/2021/06/19/29-indian-food-recipes-app-nocode.html/",
+    "/2021/06/19/29-indian-food-recipes-app-nocode.html"
+]
 
 
 tags = [

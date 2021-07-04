@@ -6,6 +6,10 @@ author = "Gurpreet Luthra"
 date = 2018-05-12T02:13:50Z
 images = ["/images/general/colombo_beach_image_small.jpg"]
 
+aliases = [
+    "/2018/05/12/i-know-nothing-socrates-paradox.html/",
+    "/2018/05/12/i-know-nothing-socrates-paradox.html"
+]
 
 tags = [
     "learning",

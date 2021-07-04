@@ -5,6 +5,10 @@ description = "A spirited chat on Sandeep Nanu's journey of building a consultin
 author = "Gurpreet Luthra"
 date = 2020-08-01T02:13:50Z
 images = ["/images/general/podcast2/Sandeep_Nanu1.jpg"]
+aliases = [
+    "/2020/08/01/podcast-exiting-the-rat-race-sandeep-nanu.html/",
+    "/2020/08/01/podcast-exiting-the-rat-race-sandeep-nanu.html"
+]
 
 
 tags = [

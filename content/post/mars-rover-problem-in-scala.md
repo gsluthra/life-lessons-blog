@@ -5,7 +5,10 @@ description = "Companion code to Priyank's blog"
 author = "Gurpreet Luthra"
 date = 2016-04-24T02:13:50Z
 images = ["/images/general/singapore-street.jpg"]
-
+aliases = [
+    "/2016/04/24/mars-rover-problem-in-scala.html/",
+    "/2016/04/24/mars-rover-problem-in-scala.html"
+]
 
 tags = [
     "programming",

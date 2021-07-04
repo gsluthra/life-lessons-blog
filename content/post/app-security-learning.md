@@ -5,6 +5,10 @@ description = "Fascinating stuff I stumbled upon while preparing for security tr
 author = "Gurpreet Luthra"
 date = 2017-04-12T02:13:50Z
 images = ["/images/general/turkey-ocean-1.jpg"]
+aliases = [
+    "/2017/04/12/app-security-learning.html/",
+    "/2017/04/12/app-security-learning.html"
+]
 
 
 tags = [

@@ -5,6 +5,11 @@ description = "More control. More elegant. My new blog."
 author = "Gurpreet Luthra"
 date = 2015-11-01T02:13:50Z
 
+aliases = [
+    "/2015/11/01/i-moved-to-jekyll.html/",
+    "/2015/11/01/i-moved-to-jekyll.html"
+]
+
 tags = [
     "technical",
     "blogging"

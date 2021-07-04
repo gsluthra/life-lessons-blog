@@ -6,6 +6,10 @@ author = "Gurpreet Luthra"
 date = 2012-02-25T02:13:50Z
 images = ["/images/general/orange-evening.jpg"]
 
+aliases = [
+    "/2012/02/25/eight-months-at-tw-pune.html/",
+    "/2012/02/25/eight-months-at-tw-pune.html"
+]
 
 tags = [
     "thoughtworks",

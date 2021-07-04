@@ -6,6 +6,10 @@ author = "Gurpreet Luthra"
 date = 2016-03-03T02:13:50Z
 images = ["https://miro.medium.com/max/2048/1*0lPh1GuUW2u2NW19p_omMA.jpeg"]
 
+aliases = [
+    "/2016/03/03/money-in-way-of-life.html/",
+    "/2016/03/03/money-in-way-of-life.html"
+]
 
 tags = [
     "healthcare",
