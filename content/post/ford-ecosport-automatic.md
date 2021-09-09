@@ -23,6 +23,9 @@ I spent a few months researching automatic petrol vehicles in India, before fina
 
 ![Ford EcoSport](/images/general/EcoSport_Amazon.jpg "Ford EcoSport")
 
+**UPDATE: 9-Sep-2021**: _Today Ford announced a shutdown of most of its car manufacturing facilities in India. [Read the annoucement here](https://www.autocarindia.com/car-news/ford-to-stop-manufacturing-cars-in-india-422002). I NO LONGER RECOMMEND CONSIDERING
+BUYING A FORD ECOSPORT CAR. This blog post is still useful for historical perspective and might give you an idea on how to evaluate a Car for purchase._
+
 
 **Disclaimer:** _Car specifications and quality are always changing. Please contact respective brands and companies for current specifications. This blog is based on my research to purchase a good petrol automatic vehicle for my needs, and I do not take any liability on the accuracy of the information mentioned here. Most of my research is based on various articles on the internet, car brouchers, and how I felt when I test-drove various vehicles. Each individual has their own tastes and preferences, and I would strongly recommend you to carry out your own research._
 
