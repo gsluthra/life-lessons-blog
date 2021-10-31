@@ -54,6 +54,7 @@ In this podcast...
 5. [R Programming Language](https://en.wikipedia.org/wiki/R_(programming_language)) 
 6. TMT Project is OpenSource: [Website](https://www.tmt.org), [Code on Github](https://github.com/tmtsoftware)
 7. Mushtaq on Twitter [mushtaqa](https://twitter.com/mushtaqa?lang=en) 
+8. Talk by Mushtaq on [Demysitfying Reactive Jargons (Youtube)](https://confengine.com/conferences/functional-conf-2014/proposal/383/demystify-the-reactive-jargons)
 
 
 ![Thirty Meter Telescope](https://cdn.mos.cms.futurecdn.net/7Y8iLggoy4vgiwvoihDcXe-970-80.jpg.webp "Thirty Meter Telescope")
