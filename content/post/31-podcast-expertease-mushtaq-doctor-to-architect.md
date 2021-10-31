@@ -3,7 +3,7 @@ title = "Mushtaq: Doctor to Coding Architect (Expertease Podcast #5)"
 description = "An insightful & honest coversation with Mushtaq Ahmed on his amazing journey to becoming a Coding Architect & Sr. Technical Leader"
 author = "Gurpreet Luthra"
 date = 2021-10-31T02:13:50Z
-images = ["https://cdn.mos.cms.futurecdn.net/7Y8iLggoy4vgiwvoihDcXe-970-80.jpg.webp"]
+images = ["/images/general/podcast5/mushtaq-ahmed-tw.jpg"]
 
 
 tags = [
