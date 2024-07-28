@@ -11,6 +11,12 @@ I enjoy sharing information on things I learn and do. Listed below are some of m
 
 * * *
 
+{{< slideshare id="//www.slideshare.net/slideshow/embed_code/key/nhroMr3GmEAVw4" >}}
+
+**[8 years of Open Source Product Development](//www.slideshare.net/slideshow/lessons-learnt-from-8-years-of-foss-bahmni-development/270574325 "8 years of Open source Product Development")** from [Gurpreet Luthra](//www.slideshare.net/gsluthra) ([YouTube Link](https://www.youtube.com/watch?v=HuqZvI0N9Po&list=PL8f-F_Zx8XA-kMENPeMMXT9KKo-x4F_NO&index=7))
+
+* * *
+
 {{< slideshare id="//www.slideshare.net/slideshow/embed_code/key/3NEehe0DoMwJwu" >}}
 
 **[Lessons from Deploying an EMR in Rural India](//www.slideshare.net/gsluthra/lessons-from-deploying-an-emr-in-rural-india "Lessons from Deploying an EMR in Rural India")** from [Gurpreet Luthra](//www.slideshare.net/gsluthra)
