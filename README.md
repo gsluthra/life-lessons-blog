@@ -1,6 +1,6 @@
 # life-lessons-blog 
 
-Hugo based blog (still under development).
+Hugo based blog.
 
 Useful Links:
  - https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/
