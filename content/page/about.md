@@ -17,7 +17,7 @@ For over 5 years, I have been a Product & Community Leader for Open Source [Bahm
 
 * * *
 
-## My Expertise
+## How can I help?
 
 *   Helping teams build a coherent, outcome oriented Product strategy & roadmap.
 *   Help improve Product Design and the way Product Development is done.
