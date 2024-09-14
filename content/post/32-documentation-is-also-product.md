@@ -41,7 +41,7 @@ In Bahmni, when we introduced Docker (and docker-compose), we wrote extensive do
 
 The reason we write documentation is to help a user understand how to get "something" done easily. The better your documentation, the faster they can get it done. This means, in the end your documentation AND your product, are together helping in "getting-something-done". If that is the case, then your document is also part of your product. 
 
-Imagine you wrote a sucky document, and they could not figure out how to do X -- won't they blame the product? Saying -- it is hard to do X or Y or X with the product. Therefore, poor documentation leads to poor product experience.
+Imagine you wrote a sucky document, and they could not figure out how to do X -- won't they blame the product? Saying -- it is hard to do X or Y or Z with the product. Therefore, poor documentation leads to a poor product experience.
 
 ## 3. Good documentation is written with the reader in mind. 
 
@@ -57,7 +57,8 @@ d. **Developers Guide**: For developers, coding best practices, architecture, qu
 
 Also, we added references to useful pages on many pages to ensure that when people landed on a particular page, they are also able to find other related information that is helpful, for example: A training video related to this module, or a public discussion regarding the roadmap of this feature. The idea is to help the reader find the relevant information, and also the corresponding contextual information. This requires a strong understanding of the audience, and also a willingness to evolve pages based on community feedback, support tickets, conversations, etc. For example see the screenshot below where we mention tools to connect to various Bahmni databases, and also provide references to anonymizing databases, etc. on the same page:
 
-https://bahmni.atlassian.net/wiki/spaces/BAH/pages/49545219/Connecting+to+various+databases
+[Connecting to various databases (Bahmni wiki)](https://bahmni.atlassian.net/wiki/spaces/BAH/pages/49545219/Connecting+to+various+databases
+)
 
 ![database wiki page](/images/general/doc-product/database-documentation.jpg "Connect to Bahmni Database page with related links on the right side showing how to anonymize the database")
 
