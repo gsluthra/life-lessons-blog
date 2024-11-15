@@ -80,3 +80,8 @@ weight = 2
 name = "About Me"
 url = "/page/about/"
 weight = 3
+
+[[menu.main]]
+name = "Blue Craft"
+url = "/page/bluecraft"
+weight = 4
