@@ -3,10 +3,10 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "life-lessons.in"
 theme = "ghostwriter"
-disqusShortname = "life-lessons-in"
-googleAnalytics = "UA-69555622-1"
+# disqusShortname = ""
+# googleAnalytics = ""
 paginate = 50
-copyright = "© Gurpreet Luthra 2021"
+copyright = "© Gurpreet Luthra 2026"
 #uglyurls = true
 
 
@@ -14,8 +14,8 @@ copyright = "© Gurpreet Luthra 2021"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "Life-Lessons.in"
-    description = "Adventures in Software and Life (Gurpreet Luthra)"
+    headline = "Life-Lessons in Tech"
+    description = "Lessons from living in Tech by Gurpreet"
     author = "Gurpreet Luthra"
     github = "https://github.com/gsluthra"
     twitter = "https://twitter.com/_zenx_"
@@ -33,7 +33,7 @@ copyright = "© Gurpreet Luthra 2021"
 
 [author]
     name =  "Gurpreet Luthra"
-    profile =  "Principal Consultant at ThoughtWorks"
+    profile =  "Technical Product Consultant"
 
 
 [markup]
@@ -55,7 +55,7 @@ copyright = "© Gurpreet Luthra 2021"
 
 
 [privacy.disqus]
-disable = false
+disable = true
 
 [privacy.googleAnalytics]
 anonymizeIP = true
