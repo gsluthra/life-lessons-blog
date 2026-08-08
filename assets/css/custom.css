@@ -2,3 +2,89 @@
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
   font-size: 0.85em;
 }
+
+.avatar img {
+  width: 14rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .avatar img {
+    width: 12rem;
+  }
+}
+
+.content {
+  flex-direction: column;
+}
+
+.latest-post {
+  display: block;
+  max-width: 40rem;
+  margin: 2.4rem auto 0;
+  padding: 1.4rem 1.8rem;
+  border-radius: 0.6rem;
+  background-color: #e0e0e0;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  transition: background-color 0.2s ease-in;
+}
+
+.latest-post:hover,
+.latest-post:focus {
+  background-color: #d5d5d5;
+  text-decoration: none;
+}
+
+.latest-post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.latest-post-eyebrow {
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.65;
+}
+
+.latest-post .date {
+  opacity: 0.65;
+}
+
+.latest-post-title {
+  margin-top: 0.5rem;
+  font-size: 1.05em;
+  font-weight: 600;
+  line-height: 1.4em;
+}
+
+.latest-post-desc {
+  margin: 0.5rem 0 0;
+  font-size: 0.85em;
+  opacity: 0.8;
+  line-height: 1.5em;
+}
+
+body.colorscheme-dark .latest-post {
+  background-color: #424242;
+}
+
+body.colorscheme-dark .latest-post:hover,
+body.colorscheme-dark .latest-post:focus {
+  background-color: #4c4c4c;
+}
+
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto .latest-post {
+    background-color: #424242;
+  }
+
+  body.colorscheme-auto .latest-post:hover,
+  body.colorscheme-auto .latest-post:focus {
+    background-color: #4c4c4c;
+  }
+}
