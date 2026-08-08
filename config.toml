@@ -2,86 +2,71 @@ baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "life-lessons.in"
-theme = "ghostwriter"
-# disqusShortname = ""
-# googleAnalytics = ""
-paginate = 50
-copyright = "© Gurpreet Luthra 2026"
-#uglyurls = true
-
-
-
-[Params]
-    mainSections = ["post"]
-    intro = true
-    headline = "Life-Lessons in Tech"
-    description = "Lessons from living in Tech by Gurpreet"
-    author = "Gurpreet Luthra"
-    github = "https://github.com/gsluthra"
-    twitter = "https://twitter.com/_zenx_"
-    # email = "XXX@example.com"
-    opengraph = true
-    images = ["/images/general/martin-backpacker-guitar.jpg"]
-    rss = true
-    shareTwitter = true
-    shareLinkedIn = true
-    shareFacebook = true
-    dateFormat = "Mon, Jan 2, 2006"
-    readingTime =  true
-    readingTimeText = "Estimated reading time:"
-
-
-[author]
-    name =  "Gurpreet Luthra"
-    profile =  "Technical Product Consultant"
-
+theme = "hugo-coder"
+paginate = 10
+enableEmoji = true
 
 [markup]
   [markup.highlight]
-    anchorLineNos = false
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineAnchors = ""
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = true
-    style = "bw"
-    tabWidth = 4
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  author = "Gurpreet Luthra"
+  info = ["Technical Product Consultant"]
+  description = "Lessons from living in Tech by Gurpreet"
+  keywords = "blog,tech,product,engineering"
+  avatarURL = "/images/general/gp-profile.png"
+  dateFormat = "Mon, Jan 2, 2006"
+  since = 2012
+  colorScheme = "auto"
+  hideColorSchemeToggle = false
+  mainSections = ["posts"]
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/gsluthra"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/_zenx_"
+
+[[params.social]]
+  name = "RSS"
+  icon = "fa-solid fa-rss fa-2x"
+  weight = 3
+  url = "/index.xml"
+  rel = "alternate"
+  type = "application/rss+xml"
 
 [Permalinks]
-    post = "/:year/:month/:day/:filename"
-
-
-[privacy.disqus]
-disable = true
-
-[privacy.googleAnalytics]
-anonymizeIP = true
-respectDoNotTrack = true
-useSessionStorage = false
-
+  posts = "/:year/:month/:day/:filename"
 
 [taxonomies]
   tag = "tags"
 
 [[menu.main]]
-name = "Blog"
-url = "/"
-weight = 1
+  name = "Blog"
+  weight = 1
+  url = "posts/"
 
 [[menu.main]]
-name = "Presentations"
-url = "/page/presentations/"
-weight = 2
+  name = "Presentations"
+  weight = 2
+  url = "page/presentations/"
 
 [[menu.main]]
-name = "About Me"
-url = "/page/about/"
-weight = 3
+  name = "About Me"
+  weight = 3
+  url = "page/about/"
 
 [[menu.main]]
-name = "Blue Craft"
-url = "/page/bluecraft"
-weight = 4
+  name = "Blue Craft"
+  weight = 4
+  url = "page/bluecraft/"
