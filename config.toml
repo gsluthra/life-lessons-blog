@@ -3,8 +3,10 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "life-lessons.in"
 theme = "hugo-coder"
-paginate = 10
 enableEmoji = true
+
+[pagination]
+  pagerSize = 15
 
 [markup]
   [markup.highlight]
@@ -19,11 +21,12 @@ enableEmoji = true
   description = "Lessons from living in Tech by Gurpreet"
   keywords = "blog,tech,product,engineering"
   avatarURL = "/images/general/gurpreet-tw-circle-bw-small.png"
-  dateFormat = "Mon, Jan 2, 2006"
+  dateFormat = "02-Jan-2006"
   since = 2012
   colorScheme = "auto"
   hideColorSchemeToggle = false
   mainSections = ["posts"]
+  customCSS = ["css/custom.css"]
 
 [[params.social]]
   name = "Github"
