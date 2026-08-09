@@ -13,6 +13,7 @@ A few posts to start with, if you don't want to scroll through everything.
 ## Open Source & Bahmni
 
 - **[Bahmni - Open Source EMR with 1 Million Lines of Code](/2021/02/25/30-bahmni-1million-loc)** — An analysis of Bahmni AngularJS exposure and strategy to migrate to React
+- **[Understanding Open Source Software](/2017/03/12/open-source-explained)** — My thoughts and findings about questions concerning Open Source Software
 
 ## AI / Emerging
 
