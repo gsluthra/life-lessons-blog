@@ -29,6 +29,9 @@ enableRobotsTXT = true
   mainSections = ["posts"]
   customCSS = ["css/custom.css"]
 
+[params.goatCounter]
+  code = "luthra"
+
 [params.entry]
   toc = true
 
