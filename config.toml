@@ -28,6 +28,9 @@ enableEmoji = true
   mainSections = ["posts"]
   customCSS = ["css/custom.css"]
 
+[params.entry]
+  toc = true
+
 [[params.social]]
   name = "Posts"
   icon = "fa-solid fa-newspaper fa-2x"
