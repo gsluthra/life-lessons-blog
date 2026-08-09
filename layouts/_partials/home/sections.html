@@ -2,13 +2,16 @@
 {{ $posts = $posts.ByDate.Reverse }}
 {{ with index $posts 0 }}
   <section class="container centered">
-    <a class="latest-post" href="{{ .RelPermalink }}">
-      <div class="latest-post-header">
-        <span class="latest-post-eyebrow">Latest post</span>
-        <span class="date">{{ .Date | time.Format (site.Params.dateFormat | default "January 2, 2006") }}</span>
-      </div>
-      <div class="latest-post-title">{{ .Title }}</div>
-      {{ with .Description }}<p class="latest-post-desc">{{ . }}</p>{{ end }}
-    </a>
+    <div class="latest-post-wrap">
+      <a class="latest-post" href="{{ .RelPermalink }}">
+        <div class="latest-post-header">
+          <span class="latest-post-eyebrow">Latest post</span>
+          <span class="date">{{ .Date | time.Format (site.Params.dateFormat | default "January 2, 2006") }}</span>
+        </div>
+        <div class="latest-post-title">{{ .Title }}</div>
+        {{ with .Description }}<p class="latest-post-desc">{{ . }}</p>{{ end }}
+      </a>
+      <a class="home-all-posts-link" href="{{ "/posts/" | relURL }}">All Posts <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+    </div>
   </section>
 {{ end }}
