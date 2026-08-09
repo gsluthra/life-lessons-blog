@@ -9,6 +9,7 @@ A few posts to start with, if you don't want to scroll through everything.
 - **[Your documentation is also the Product](/2024/08/31/32-documentation-is-also-product)** — Lessons from building an open source 1000 page confluence wiki (31-Aug-2024)
 - **[The Velocity Conundrum](/2015/12/25/the-velocity-conundrum)** — Pitfalls in measuring velocity of high performance teams (25-Dec-2015)
 - **[Poka Yoke](/2012/07/22/poke-yoke-mistake-proofing-software)** — A technique for reducing mistakes in software (22-Jul-2012)
+- **[Web Vulnerabilities - Phishing, Cookies, XSS and CSRF](/2012/04/29/understanding-web-vulnerabilities-cookies)** — A basic overview of common web vulnerabilities (29-Apr-2012)
 
 ## Open Source & Bahmni
 
