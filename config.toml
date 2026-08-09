@@ -70,16 +70,21 @@ enableRobotsTXT = true
   url = "posts/"
 
 [[menu.main]]
-  name = "Presentations"
+  name = "Tags"
   weight = 2
+  url = "tags/"
+
+[[menu.main]]
+  name = "Presentations"
+  weight = 3
   url = "page/presentations/"
 
 [[menu.main]]
   name = "About Me"
-  weight = 3
+  weight = 4
   url = "page/about/"
 
 [[menu.main]]
   name = "Blue Craft"
-  weight = 4
+  weight = 5
   url = "page/bluecraft/"
