@@ -8,7 +8,7 @@ A few posts to start with, if you don't want to scroll through everything.
 
 - **[Your documentation is also the Product](/2024/08/31/32-documentation-is-also-product)** — Lessons from building an open source 1000 page confluence wiki
 - **[The Velocity Conundrum](/2015/12/25/the-velocity-conundrum)** — Pitfalls in measuring velocity of high performance teams
-- **[POKA YOKE](/2012/07/22/poke-yoke-mistake-proofing-software)** — A technique for reducing mistakes in software
+- **[Poka Yoke](/2012/07/22/poke-yoke-mistake-proofing-software)** — A technique for reducing mistakes in software
 
 ## Open Source & Bahmni
 
