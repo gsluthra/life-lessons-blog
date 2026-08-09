@@ -41,10 +41,10 @@ enableEmoji = true
   url = "https://github.com/gsluthra"
 
 [[params.social]]
-  name = "Twitter"
-  icon = "fa-brands fa-x-twitter fa-2x"
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
   weight = 3
-  url = "https://twitter.com/_zenx_"
+  url = "https://www.linkedin.com/in/gurpreetluthra"
 
 [[params.social]]
   name = "RSS"
