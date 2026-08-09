@@ -54,9 +54,15 @@ enableRobotsTXT = true
   url = "https://www.linkedin.com/in/gurpreetluthra"
 
 [[params.social]]
+  name = "Podcast"
+  icon = "fa-solid fa-podcast fa-2x"
+  weight = 4
+  url = "https://anchor.fm/expertease"
+
+[[params.social]]
   name = "RSS"
   icon = "fa-solid fa-rss fa-2x"
-  weight = 4
+  weight = 5
   url = "/index.xml"
   rel = "alternate"
   type = "application/rss+xml"
