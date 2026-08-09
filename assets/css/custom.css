@@ -118,12 +118,21 @@ body.colorscheme-dark .latest-post:focus {
   }
 }
 
+.home-links {
+  margin-top: 1.2rem;
+}
+
 .home-all-posts-link {
   display: inline-block;
-  margin-top: 1.2rem;
   font-size: 0.9em;
 }
 
 .home-all-posts-link i {
   margin-left: 0.4rem;
+}
+
+.home-links-separator {
+  margin: 0 0.6rem;
+  opacity: 0.5;
+  font-size: 0.9em;
 }

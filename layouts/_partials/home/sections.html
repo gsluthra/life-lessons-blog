@@ -11,7 +11,11 @@
         <div class="latest-post-title">{{ .Title }}</div>
         {{ with .Description }}<p class="latest-post-desc">{{ . }}</p>{{ end }}
       </a>
-      <a class="home-all-posts-link" href="{{ "/posts/" | relURL }}">All Posts <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+      <div class="home-links">
+        <a class="home-all-posts-link" href="{{ "/page/favourites/" | relURL }}">Favourites <i class="fa-solid fa-star" aria-hidden="true"></i></a>
+        <span class="home-links-separator">&middot;</span>
+        <a class="home-all-posts-link" href="{{ "/posts/" | relURL }}">All Posts <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+      </div>
     </div>
   </section>
 {{ end }}
