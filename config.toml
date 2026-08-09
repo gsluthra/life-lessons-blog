@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "life-lessons.in"
 theme = "hugo-coder"
 enableEmoji = true
+enableRobotsTXT = true
 
 [pagination]
   pagerSize = 15
