@@ -55,4 +55,4 @@ To sum it up: *My wife has joined ThoughtWorks last month!* :) :)
 
 **[Update: 07/Aug/2013]** Added snaps I took of Pune office.
 
-Originally posted on my older blog post here: [8 Months at ThoughtWorks Pune](http://techie-notebook.blogspot.com/2012/02/8-months-at-thoughtworks-pune.html)
+_Originally posted on my older blog post here: [8 Months at ThoughtWorks Pune](http://techie-notebook.blogspot.com/2012/02/8-months-at-thoughtworks-pune.html)_

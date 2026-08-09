@@ -130,4 +130,4 @@ You can watch the video of my talk on YouTube here: [Poke Yoke - Youtube - Gurpr
 
 Slides are [here](https://www.slideshare.net/gsluthra/poka-yoke-the-science-of-mistake-proofing-for-slideshare).
 
-Originally posted on my older blog post here: [Poka Yoke -- Applying Mistake Proofing to Software](http://techie-notebook.blogspot.com/2012/07/poka-yoke-applying-mistake-proofing-to.html)
+_Originally posted on my older blog post here: [Poka Yoke -- Applying Mistake Proofing to Software](http://techie-notebook.blogspot.com/2012/07/poka-yoke-applying-mistake-proofing-to.html)_
