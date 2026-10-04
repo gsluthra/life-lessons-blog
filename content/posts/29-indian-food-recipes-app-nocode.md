@@ -34,7 +34,10 @@ So, in essence, I created a Google Sheet, in which my brother wrote recipes over
 
 The outcome is pretty great! I am impressed how one can create "informational" apps so easily with GlideApps. And it does support two way data sync -- like sending Likes, etc back to the Sheet whenever someone interacts with the app. Pretty cool!
 
-### Install the App
+### Install the App (latest!)
+**UPDATE on 4-Oct-2026:** I re-built the app with Claude to have more control over the UX. See the new app here: [https://chefsimarpreet.github.io/foodie/](https://chefsimarpreet.github.io/foodie/). Note, this does NOT use Glideapps. It does not need to be downloaded. Just select "*Share --> Add to Home Screen*". Simple! 
+
+### Install the App (Glideapp version -- NO LONGER UPDATED)
 
 Do check out the app with yummy biryani, chicken, pulao, rajma, chole, chutney, etc. recipes here: [Indian-Recipes 100+ free - http://indian-recipes.glideapp.io/](http://indian-recipes.glideapp.io/). It does not need to be downloaded. Just select "*Share --> Add to Home Screen*". Simple! 
 
